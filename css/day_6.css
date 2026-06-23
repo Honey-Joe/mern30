@@ -1,0 +1,41 @@
+.text{
+    /* color: red; */
+    /* color: rgb(241, 50, 255); */
+    color: #8f1321;
+}
+
+
+.container {
+
+    height: 200px;
+    background-color: #8f1321;
+    background-image: url(../Untitled.jpg);     
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.5;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    /* padding: 20px; */
+    /* padding-left: 10px; */
+    /* padding-right: 50px; */
+    /* padding-top: 20px; */
+    /* padding-bottom: 30px; */
+
+    /* border: 6px double green; */
+    border-top-width: 10px;
+    border-bottom-width: 4px;
+
+    border-style:solid;
+    border-left-style: dashed;
+
+    /* border-radius: 200px; */
+    /* border-bottom-left-radius: 30px; */
+
+    margin: 200px;
+
+}

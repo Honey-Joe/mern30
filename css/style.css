@@ -1,0 +1,29 @@
+/* h2 {
+    color : blue ;
+} */
+
+* {
+  color: red;
+}
+
+h1 {
+  color: blue;
+}
+
+.heading {
+  /* color: green; */
+
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  font-weight: 100;
+  font-style: italic;
+  line-height: 80px;
+  text-align: justify;
+  text-decoration: line-through dashed green;
+  text-transform: lowercase;
+}
+
+#para {
+  color: orange;
+}
